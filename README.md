@@ -15,3 +15,8 @@ Text—so simple in appearance, yet laden with intricate layers of meaning and s
 Preparation and Tools
 
 Before setting sail into this captivating world, I've equipped myself with the fundamental tools Python offers for text processing and sentiment analysis. Libraries like NLTK (Natural Language Toolkit) and TextBlob are like treasure chests filled with linguistic gems, waiting for an explorer to discover their potential. Also, I will make use of IMDB Movie Reviews Dataset and chatGPT for clearer explanation of events and Guidiance
+
+Understanding the Landscape: Text Processing
+
+My first port of call in this expedition is text processing. Understanding the structure of text, breaking it down into its constituent parts, and transforming it into a format that computers can comprehend is crucial. From tokenization to stemming and lemmatization, these processes are akin to deciphering the ancient runes of language.
+
