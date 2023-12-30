@@ -9,6 +9,8 @@ The Quest for Understanding
 Text—so simple in appearance, yet laden with intricate layers of meaning and sentiment—holds untold stories waiting to be unveiled. With Python as my trusty companion, I am setting out to unravel these narratives, to understand not just what is written but also how it is felt.
 
 
+![florian-olivo-4hbJ-eymZ1o-unsplash](https://github.com/23W-GBAC/whyteman95/assets/148862892/3f227e51-3af2-42e6-bec1-49095607cd05)
+
 Preparation and Tools
 
 Before setting sail into this captivating world, I've equipped myself with the fundamental tools Python offers for text processing and sentiment analysis. Libraries like NLTK (Natural Language Toolkit) and TextBlob are like treasure chests filled with linguistic gems, waiting for an explorer to discover their potential. Also, I will make use of IMDB Movie Reviews Dataset and chatGPT for clearer explanation of events and Guidiance
