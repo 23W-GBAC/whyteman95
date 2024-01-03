@@ -9,7 +9,7 @@ The Quest for Understanding
 Text—so simple in appearance, yet laden with intricate layers of meaning and sentiment—holds untold stories waiting to be unveiled. With Python as my trusty companion, I am setting out to unravel these narratives, to understand not just what is written but also how it is felt.
 
 
-![florian-olivo-4hbJ-eymZ1o-unsplash](https://github.com/23W-GBAC/whyteman95/assets/148862892/1c3fbef4-ad68-4fe0-ab42-e70ec056df6a)
+![florian-olivo-4hbJ-eymZ1o-unsplash (1)](https://github.com/23W-GBAC/whyteman95/assets/148862892/dee1fe6d-86be-4000-b97f-3fe93a747a27)
 
 
 Preparation and Tools
